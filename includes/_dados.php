@@ -1,0 +1,36 @@
+<?php
+
+$produtos = array(
+    0 => array('nome' =>'NFT Macaco 1°','preço' => 'A partir de: 2000,50 R$', 'categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'macaco_branco.png'),
+    1 => array('nome' =>'NFT Macaco 2°','preço' => 'A partir de: 1050,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'macaco_lazer.png'),
+    2 => array('nome' =>'NFT Macaco 3°','preço' => 'A partir de: 1500,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'Eminem-NFT.webp'),
+    3 => array('nome' =>'NFT Macaco 4°','preço' => 'A partir de: 2300,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'aa4.png'),
+    4 => array('nome' =>'NFT Macaco 5°','preço' => 'A partir de: 1700,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'macaco_tralha.jpg'),
+    5 => array('nome' =>'NFT Macaco 6°','preço' => 'A partir de: 2800,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'macaco_lutador.jpg'),
+    6 => array('nome' =>'NFT Macaco 7°','preço' => 'A partir de: 3000,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'macaco_chapeu.png'),
+    7 => array('nome' =>'NFT Macaco 8°','preço' => 'A partir de: 3500,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'macaco_marinheiro.png'),
+    8 => array('nome' =>'NFT Macaco 9°','preço' => 'A partir de: 3400,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'macac_.png'),
+    9 => array('nome' =>'NFT Macaco 10°','preço' => 'A partir de: 4080,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'aaa1.png'),
+    10 => array('nome' =>'NFT Macaco 11°','preço' => 'A partir de: 1900,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'aaa2.webp'),
+    11 => array('nome' =>'NFT Macaco 12°','preço' => 'A partir de: 4430,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'aaa3.webp'),
+    12 => array('nome' =>'NFT Macaco 13°','preço' => 'A partir de: 3690,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'aaa4.png'),
+    13 => array('nome' =>'NFT Macaco 14°','preço' => 'A partir de: 3200,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'aaa5.png'),
+    14 => array('nome' =>'NFT Macaco 15°','preço' => 'A partir de: 4800,00 R$','categoria'=>'NFT','descricao'=>'NFT macaco','imagem'=>'aaa6.webp'),
+    15 => array('nome' =>'NFT Macaco 16°','preço' => 'A partir de: 4500,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'aaa7.png'),
+    16 => array('nome' =>'NFT Macaco 17°','preço' => 'A partir de: 2600,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'aaa8.jpeg'),
+    17 => array('nome' =>'NFT Macaco 18°','preço' => 'A partir de: 1200,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'aaa9.png'),
+    18 => array('nome' =>'NFT Macaco 19°','preço' => 'A partir de: 5000,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'a1.png'),
+    19 => array('nome' =>'NFT Macaco 20°','preço' => 'A partir de: 5300,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'a2.png'),
+    20 => array('nome' =>'NFT Macaco 21°','preço' => 'A partir de: 6700,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'a3.png'),
+    21 => array('nome' =>'NFT Macaco 22°','preço' => 'A partir de: 7300,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'a4.png'),
+    22 => array('nome' =>'NFT Macaco 23°','preço' => 'A partir de: 5900,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'a5.png'),
+    23 => array('nome' =>'NFT Macaco 24°','preço' => 'A partir de: 3100,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'a6.png'),
+    24 => array('nome' =>'NFT Macaco 25°','preço' => 'A partir de: 4600,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'a7.webp'),
+    25 => array('nome' =>'NFT Macaco 26°','preço' => 'A partir de: 5500,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'a8.png'),
+    26 => array('nome' =>'NFT Macaco 27°','preço' => 'A partir de: 6400,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'a9.png'),
+    27 => array('nome' =>'NFT Macaco 28°','preço' => 'A partir de: 7500,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'aa1.webp'),
+    28 => array('nome' =>'NFT Macaco 29°','preço' => 'A partir de: 7800,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'aa2.gif'),
+    29 => array('nome' =>'NFT Macaco 30°','preço' => 'A partir de: 6150,00 R$','categoria'=>'NFT', 'descricao'=>'NFT macaco','imagem'=>'aa3.png'),
+   
+);
+?> 
