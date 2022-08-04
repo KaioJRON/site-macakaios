@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Tempo de geração: 21-Jul-2022 às 17:27
+-- Tempo de geração: 04-Ago-2022 às 17:16
 -- Versão do servidor: 10.4.17-MariaDB
 -- versão do PHP: 7.3.27
 
@@ -18,7 +18,7 @@ SET time_zone = "+00:00";
 /*!40101 SET NAMES utf8mb4 */;
 
 --
--- Banco de dados: `sitesigma`
+-- Banco de dados: `site-macakaios`
 --
 
 -- --------------------------------------------------------
