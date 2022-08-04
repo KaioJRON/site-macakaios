@@ -1,6 +1,6 @@
 <?php
 $servername = "localhost";
-$database = "sitesigma";
+$database = "site-macakaios";
 $username = "root";
 $password = "";
 
